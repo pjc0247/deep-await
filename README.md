@@ -2,7 +2,7 @@ deep-await
 ====
 
 Turn this code
-```
+```js
 {
   user: await getUser('user_id'),
   article: await getArticle('article_id'),
